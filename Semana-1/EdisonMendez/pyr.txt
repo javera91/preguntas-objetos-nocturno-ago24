@@ -1,0 +1,7 @@
+Para que sirve typescript?[1]
+A.es solo para navegadores modernos
+B.es completamente independiente de js
+C.es un superset de JavaScript quE añade tipos estaticos opcinales y mejorasde sintaxis
+para facilitar el desarrollo y mantenimento dle codigo
+
+ANSWER: C
