@@ -1,0 +1,22 @@
+¿Que es TypeScript?      Semana 1
+A. es un lenguaje binario
+B. es  una evolución  de  JavaScript
+C. es un compilador que convierte  a código fuente en otro tipo de lenguaje
+
+Answer: B
+
+
+¿Qué palabra clave se utiliza en TypeScript para definir una variable cuyo tipo no se conoce en tiempo de compilación?    Semana 1
+A. any
+B. void
+C. unknown
+
+Answer: A
+
+
+¿Qué comando se utiliza para compilar un archivo TypeScript en la línea de comandos?      Semana 1
+A. run-ts
+B. compile
+C. tsc
+
+Answer: C
