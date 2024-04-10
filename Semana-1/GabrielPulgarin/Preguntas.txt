@@ -1,0 +1,17 @@
+¿Qué es Node.js?[1]
+A. Un lenguaje de programación.
+B. Una herramienta para desarrollo de aplicaciones.
+C. Un motor de JS.
+
+ANSWER: B
+¿Que es nest.JS?[1]
+A. Un Framwork abierto.
+B. Un servidor web.
+C. Un supralenguaje de JS.
+ANSWER: A
+
+¿Para qué uso "npm run start"?[1]
+A. Para iniciar un servidor nest.js
+B. Para crear un proyecto nest,js
+C. Para mostrar las carpetas del proyecto.
+ANSWER: A
