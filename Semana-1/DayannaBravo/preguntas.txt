@@ -1,0 +1,18 @@
+¿Qué lenguaje se utiliza Nodejs? [Semana#1]
+A. JavaScript
+B. HTML
+C. C++
+ANSWER: A.
+
+¿Qué es Nodejs? [Semana#1]
+A. Es una biblioteca de Python utilizada para desarrollo web.
+B. Entorno de tiempo de ejecución en tiempo real incluye todo lo que se necesita para ejecuta
+C. Ninguna de las anteriores
+ANSWER: B.
+
+¿Qué es Express? [Semana#1]
+A. Es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML)
+B. Es un motor de bases de datos utilizado para la gestión de datos en aplicaciones Node.js.
+C. Es un lenguaje de programación diseñado para la creación de interfaces gráficas en aplicaciones web.
+ANSWER: C.
+
