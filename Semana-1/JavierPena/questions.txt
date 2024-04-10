@@ -1,1 +1,25 @@
-aqui van mis preguntas 
+¿Que es npm para node.js?
+
+A. Una libreria para trabgajar backend .
+B. Un gestionador de paquetes.
+C. Un Framework Frontend.
+
+ANSWER: B
+
+¿Todo código de TypeScript funciona en JavaScript?
+
+A. Sí, siempre y cuando no se utilicen características específicas de TypeScript.
+B. No, puede haber diferencias debido a la tipificación estática y características adicionales de TypeScript.
+C. Depende de la configuración del compilador TypeScript.
+
+ANSWER: A
+
+¿Cuál es la principal ventaja de utilizar TypeScript por sobre JavaScript?
+
+A. Es más corto en cuanto a sintaxis, por ende es más rápido para desarrollar.
+B. Mejor rendimiento en la ejecución del código.
+C. Tipado estático que ayuda a detectar errores durante la fase de desarrollo.
+
+ANSWER: C
+
+
