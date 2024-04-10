@@ -1,0 +1,16 @@
+las preguntas son en base a lo que se vio en la clase.
+que es typescript?
+A.Un superconjunto de JavaScript.
+B.Es de tipificación dinámica.
+C.Puede conducir a errores más difíciles de detectar.
+ANSWER:A
+cuando usar typescript?
+A.Para ahorar tiempo.
+B.Es mas facil que JavaScript
+C.en el desarrollo de todas las esquinas de un proyecto web.
+ANSWER:C
+Typescript proporciona una mayor seguridad en nuestro código?
+A.Verdadero
+B.Falso 
+C.Ninguna
+ANSWER:A
