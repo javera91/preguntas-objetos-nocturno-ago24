@@ -1,0 +1,5 @@
+Para que sirve TS?[1]
+A. Facilitar la deteccion temprana de errores durante el desarrrollo.
+B. mejorar la productividad del desarrollador
+C. mejorar la calidad del codigo Javascript
+ANSWER: C
