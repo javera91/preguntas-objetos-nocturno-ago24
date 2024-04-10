@@ -1,0 +1,17 @@
+¿Qué es NodeJs? [Semana #1]
+A. Es un sistema operativo.
+B. Es un entorno en tiempo de ejecución multiplataforma para la capa del servidor.
+C. Ninguna de las anteriores.
+ANSWER: B.
+
+¿Qué es Express.js? [Semana #1]
+A. Es un framework de backendNode.js minimalista, rápido y similar a Sinatra, que proporciona características y herramientas robustas para desarrollar aplicaciones de backend escalables.
+B. Es un framework de backendNode.js minimalista, y de otra galaxia.
+C. Ninguna de las anteriores.
+ANSWER: A.
+
+¿Quién depende de quién? [Semana #1]
+A. Node.Js depende de Express.js.
+B. Express.js depende de Node.Js.
+C. Ninguna de las anteriores.
+ANSWER: B.
