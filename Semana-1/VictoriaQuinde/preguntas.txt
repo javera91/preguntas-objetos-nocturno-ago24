@@ -1,0 +1,3 @@
+Dime tu nombre 
+dime tu direccion
+dime tu edad
