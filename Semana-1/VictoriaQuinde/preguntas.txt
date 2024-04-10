@@ -1,17 +1,17 @@
 Que typescript?
-A. Es un Lenguaje de programacion.(1)
+A. Es un Lenguaje de programacion libre.
 B. Es la primera linea de base para javascript.
 C. Es un lenguaje remoto
 D. Todas las anteriores
-ANSWER> A
+ANSWER> A porque  typeScript es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft.
 Para que sirve typescript?
 A. Para programar en linea.
 B. Para gestionar html y css.
 C. A y B son correctas
 
-ANSWER: A
+ANSWER: A porque typeScript fomenta la escritura de código mantenible y escalable proporcionando características como interfaces, clases y módulos.
 Es igual typescript y javascript?
 A. Verdadero
 B. Falso 
 
-ANSWER: B
+ANSWER: B porque typeScript ofrece un sistema de tipos estáticos, lo que significa que los tipos de variables son conocidos en el tiempo de compilación. En cambio, JavaScript es de tipificación dinámica, lo que permite mayor flexibilidad pero puede conducir a errores más difíciles de detectar.
