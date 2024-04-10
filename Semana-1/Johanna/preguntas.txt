@@ -1,0 +1,7 @@
+¿Cuál de las siguientes afirmaciones describe mejor una característica fundamental de Node.js?[1 semana]
+
+A. Node.js es un lenguaje de programación completamente nuevo diseñado específicamente para la web.
+B. Node.js es un entorno de ejecución de JavaScript basado en el motor V8 de Google Chrome.
+C. Node.js es exclusivamente utilizado para el desarrollo de aplicaciones móviles.
+
+ANSWER: c
