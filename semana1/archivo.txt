@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+preguntas semanales?
+=======
+lorem helloworld
+>>>>>>> 44bfd76682cd348e559533d004dadbec22baf1ee
