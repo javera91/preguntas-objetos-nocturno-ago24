@@ -1,2 +1,5 @@
+¿Por qué algunas funciones no están declaradas como function sino como const?
+¿Que es la migracion de js a ts?
+¿Porque no puedo imprimir con alert en lugar de console.log si es un supraconjunto de js?
 lorem helloworld
 ¿Qué es NodeJs?
