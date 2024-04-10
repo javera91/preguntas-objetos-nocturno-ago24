@@ -1,3 +1,17 @@
-Dime tu nombre 
-dime tu direccion
-dime tu edad
+Que typescript?
+A. Es un Lenguaje de programacion.(1)
+B. Es la primera linea de base para javascript.
+C. Es un lenguaje remoto
+D. Todas las anteriores
+ANSWER> A
+Para que sirve typescript?
+A. Para programar en linea.
+B. Para gestionar html y css.
+C. A y B son correctas
+
+ANSWER: A
+Es igual typescript y javascript?
+A. Verdadero
+B. Falso 
+
+ANSWER: B
