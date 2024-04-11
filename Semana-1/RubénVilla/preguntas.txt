@@ -1,0 +1,24 @@
+¿Que significa Node.js?
+
+A. Un lenguaje de programación
+B. Un entorno de ejecución de JavaScript
+C. Un framework de desarrollo web
+D. Una base de datos NoSQL
+
+ANSWER: B
+
+¿Qué se utiliza comúnmente en Node.js para manejar tareas asíncronas?
+A. Callbacks
+B. Promesas
+C. Eventos
+D. Todas las anteriores
+
+ANSWER: D
+
+¿Cuál de las siguientes afirmaciones sobre Node.js es verdadera?
+
+A. Node.js solo puede ejecutar código JavaScript en el servidor
+B. Node.js utiliza el motor de JavaScript V8 de Google Chrome
+C. Node.js es incompatible con el desarrollo de aplicaciones web
+
+ANSWER: B

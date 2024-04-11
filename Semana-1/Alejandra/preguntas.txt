@@ -1,1 +1,18 @@
-asdas
+¿Que es Node.js?
+A. Es un entorno en tiempo de ejecución multiplataforma para la capa del servidor y ordenador.
+B. Es un entorno de tiempo de ejecución en tiempo real que incluye todo lo necesario para ejecutar un programa. 
+C. Es un framework de tiempo de ejecución multiplataforma.
+ANSWER: B
+
+¿cómo se puede utilizar?
+A. Utiliza el modelo de entrada y salida sin bloqueo.
+B. Puede manejar múltiples conexiones simultáneamente sin crear hilos adicionales, utilizando menos recursos y logrando mayor velocidad de ejecución. 
+C. Se utiliza para un proceso unico para crear hilos. 
+ANSWER: B
+
+¿que son los streams de Node js?
+A. Son una noción fuerte que permite el manejo rápido de datos en streaming. 
+B. Es un modulo, como lo son el middleware y las librerías de bases de datos que se utilizan en las aplicaciones.
+C. Sirve para construir aplicaciones que involucren una gran cantidad de accesos a disco, peticiones de red.
+ANSWER: A
+

@@ -1,0 +1,23 @@
+¿El Hola Mundo en que direccion se encuentra? (1)
+
+A. ¿Host 200?
+B. ¿host 1000?
+C. ¿Host 3000 ?
+
+ANSWER: C
+
+¿En que servidor se puede cambiar/ver el Host que usamos?(1)
+
+A.main.ts
+B.app.modulo.ts
+C.app.controller.ts
+
+ANSWER: A
+
+¿Para que sirve el start:dev?(1)
+
+A. Se levanta el host pero no puedo hacer cambios al actualizar
+B. Se levanta el host y puedo hacer modificaciones 
+C. No hace nada 
+
+ANSWER: B
