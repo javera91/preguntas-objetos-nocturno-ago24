@@ -1,0 +1,18 @@
+¿Que es javascript?[SEMANA 1]
+A.JavaScript es un lenguaje de programación de alto nivel, interpretado y orientado a objetos.
+B.JavaScript es un sistema operativo utilizado para ejecutar programas en dispositivos móviles.
+C.JavaScript es un tipo de base de datos utilizado para almacenar información en servidores web.
+ANSWER: A 
+
+¿Cuál de los siguientes no es un sistema operativo?[SEMANA 1]
+A. Windows
+B. Android
+C. Microsoft Office
+ANSWER: C
+
+¿Cuál de las siguientes opciones describe mejor el propósito de un firewall en una red de computadoras?[SEMANA 1 ]
+A. Acelerar la velocidad de Internet
+B. Proteger la red al controlar el tráfico de entrada y salida.
+C. Mejorar la calidad de la señal Wi-Fi.
+D. Optimizar el rendimiento del servidor.
+ANSWER: B
