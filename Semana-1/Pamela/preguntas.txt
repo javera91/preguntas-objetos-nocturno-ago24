@@ -1,1 +1,26 @@
-1. 
+1. ¿Qué es NestJS?
+
+A. Un framework de desarrollo web para frontend.
+B. Un framework de desarrollo web para backend.
+C. Un lenguaje de programación.
+D. Una base de datos.
+
+ANSWER:B
+
+2. ¿Qué lenguaje se utiliza principalmente en el desarrollo de aplicaciones con NestJS?
+
+A. JavaScript.
+B. Java.
+C. Python.
+D. TypeScript.
+
+ANSWER:D
+
+3. ¿Cuál es el archivo principal en una aplicación NestJS?
+
+A. main.ts
+B. package.json
+C.index.js
+D. app.module.ts
+
+ANSWER: A
