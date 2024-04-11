@@ -1,0 +1,23 @@
+¿Cuál es el administrador de paquetes predeterminado de Node.js?[1 semana]
+
+A. npm
+B. Yarn
+C. pip
+
+ANSWER: a
+
+¿Cuál de los siguientes no es un módulo principal en Node.js?
+
+A. fs
+B. http
+C. express
+
+ANSWER: C
+
+¿Qué tipo de entorno de ejecución proporciona Node.js?
+
+A. Entorno de ejecución síncrono
+B. Entorno de ejecución asíncrono
+C. Entorno de ejecución de múltiples hilos
+
+ANSWER: b
