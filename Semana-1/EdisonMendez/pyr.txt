@@ -5,3 +5,17 @@ C.es un superset de JavaScript quE añade tipos estaticos opcinales y mejorasde 
 para facilitar el desarrollo y mantenimento dle codigo
 
 ANSWER: C
+
+cual es al archivo principal de mi proyectoi nest?[2]
+A.el main.ts
+B.package.json
+C.readmi.md
+
+ANSWER: A
+
+¿que es nest.js?
+ A.es lenguaje de programacion
+ B.es un framework para desarrollo del backend
+ C.es un supra lenguaje de js
+
+ANSWER: B
