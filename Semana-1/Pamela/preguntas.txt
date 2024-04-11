@@ -24,3 +24,12 @@ C.index.js
 D. app.module.ts
 
 ANSWER: A
+
+4. Para crear un proyecto básico en Nest js coloco:
+
+A. npm i -g @nestjs/cli
+B. npm -g @nestjs/cli
+C. nts i -g @nestjs/cli
+D. Ninguna de las anteriores.
+
+ANSWER: A
