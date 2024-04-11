@@ -1,5 +1,27 @@
-¿Cual es la respuesta correcta a esta pregunta?(#de la Semana)
-A.¿Es esta?
-B.¿Quiza esta?
-c.¿Tal vez esta otra?
-ANSWER: C
+¿Cómo se puede gestionar la concurrencia en Node.js? [Semana #1]
+
+A. Usando múltiples hilos.
+B. Mediante el patrón de Event Loop y callbacks.
+C. A través de procesos paralelos.
+
+ANSWER: B
+
+¿Cómo se capturan los errores en una aplicación Express? [Semana #1]
+
+A. Usando un middleware al final de todas las rutas que captura los errores.
+B. Mediante un bucle infinito que verifica errores.
+C. Llamando a console.error() en cada callback.
+
+ANSWER: A
+
+¿Qué utilidad se utiliza en Node.js para asegurar que las versiones 
+de los paquetes utilizados sean consistentes entre diferentes entornos? [Semana #1]
+
+A. npm-check
+B. nvm
+C. package-lock.json
+
+ANSWER: c
+
+
+
