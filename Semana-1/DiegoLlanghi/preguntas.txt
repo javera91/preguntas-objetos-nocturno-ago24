@@ -1,0 +1,5 @@
+¿Cual es la respuesta correcta a esta pregunta?(#de la Semana)
+A.¿Es esta?
+B.¿Quiza esta?
+c.¿Tal vez esta otra?
+ANSWER: C
