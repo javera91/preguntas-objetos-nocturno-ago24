@@ -1,0 +1,20 @@
+¿Cuál de las siguientes afirmaciones describe correctamente el concepto de tipos en TypeScript?
+
+A. TypeScript no admite el uso de tipos para mejorar la seguridad del código.
+B. Los tipos en TypeScript son opcionales y no afectan el comportamiento del programa.
+C. Los tipos en TypeScript permiten declarar el tipo de datos que una variable puede contener, lo que ayuda a detectar errores durante la fase de desarrollo.
+D. En TypeScript, los tipos solo se pueden aplicar a variables numéricas y no a otros tipos de datos.
+
+ANSWER: C
+¿Cuál de las siguientes características es una ventaja de la programación orientada a objetos en Python?
+A. La programación orientada a objetos en Python es menos flexible que otros enfoques de programación.
+B. La programación orientada a objetos en Python facilita la organización y estructuración del código, lo que puede mejorar la mantenibilidad y la escalabilidad del software.
+C. La programación orientada a objetos en Python no permite la reutilización de código.
+ANSWER: B
+
+¿Qué se puede hacer con TypeScript?
+A. Permite agregar tipos estáticos a variables, funciones y más, lo que ayuda a atrapar errores en etapas tempranas de desarrollo.
+B. Solo se puede escribir código JavaScript básico.
+C. Es un lenguaje completamente diferente a JavaScript y no tiene ninguna relación con él.
+
+ANSWER: A
