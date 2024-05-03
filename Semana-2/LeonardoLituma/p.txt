@@ -1,0 +1,29 @@
+1) ¿Qué es lo siguiente?  
+function addNumbers(x, y) {
+  return x + y;
+}
+A. es un array
+B. es un objeto
+C. es  una función
+
+Answer: C
+
+2) ¿Qué hace el comando npm install -g typescript? 
+
+A.Instala npm para que se pueda instalar TypeScript.
+
+B.Instala el compilador de TypeScript globalmente en el equipo.
+
+C.Instala Node.js y npm.
+
+Answer: B
+
+3) ¿Qué es el compilador de TypeScript? 
+
+A.Es un programa que compila TypeScript a JavaScript.
+
+B.Es un programa que compila JavaScript a TypeScript.
+
+C.Es un programa que compila TypeScript a TypeScript.
+
+Answer: A
