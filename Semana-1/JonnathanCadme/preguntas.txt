@@ -1,0 +1,24 @@
+
+1. ¿Qué es Non-blocking I/O?
+A. Un modelo de ejecución que bloquea el hilo principal de la aplicación hasta que se completa una operación de entrada/salida.
+B. Un enfoque en el que las operaciones de entrada/salida no detienen la ejecución del programa.
+C. Un método para bloquear la ejecución del código JavaScript.
+D. Un tipo de operación que solo se puede realizar de forma secuencial.
+
+ANSWER: B
+
+2. ¿Por qué es importante el bucle de eventos?
+A. Para detener la ejecución del programa.
+B. Para asegurar que las operaciones de entrada/salida no bloqueen la ejecución.
+C. Para limitar la escalabilidad de la aplicación.
+D. Para ejecutar solo un evento a la vez.
+
+ANSWER: B
+
+3 ¿Dónde se puede usar Node.js?
+A. Solo en el navegador web.
+B. Solo en sistemas operativos Linux.
+C. En el desarrollo de aplicaciones de red escalables.
+D. Exclusivamente en el desarrollo de aplicaciones móviles.
+
+ANSWER: C
