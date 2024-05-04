@@ -1,0 +1,22 @@
+¡Entendido! Aquí tienes tres preguntas en el mismo formato:
+
+1. ¿Para qué se utiliza la palabra clave `any` en TypeScript?
+   A. Para declarar cualquier tipo de variable
+   B. Para indicar que una variable no tiene tipo
+   C. Para declarar funciones sin tipo de retorno
+
+Respuesta: A
+
+2. ¿Por qué se recomienda utilizar `let` y `const` en lugar de `var` en TypeScript?
+   A. Porque `let` y `const` tienen un alcance de bloque más estricto
+   B. Porque `let` y `const` no permiten la reasignación de variables
+   C. Porque `let` y `const` son más eficientes en términos de rendimiento
+
+Respuesta: A
+
+3. ¿Cuál es el propósito de una tupla en TypeScript?
+   A. Para definir un tipo que puede ser uno de varios tipos específicos
+   B. Para agrupar múltiples valores juntos en un solo tipo
+   C. Para crear un tipo que no puede tener ningún valor
+
+Respuesta: B
