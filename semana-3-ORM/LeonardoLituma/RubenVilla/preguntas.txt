@@ -1,0 +1,23 @@
+¿Qué significa ORM?
+
+A. Objetos Relacionales Múltiples
+B. Mapeo Objeto-Relacional
+C. Optimización de Rendimiento Móvil
+
+ANSWER: B. Mapeo Objeto-Relacional
+
+¿Cuál es el propósito principal de ORM en el desarrollo de aplicaciones?
+
+A. Facilitar la interacción entre objetos en el código y las tablas en una base de datos relacional
+B. Mejorar la velocidad de carga de una página web
+C. Optimizar el uso de recursos del servidor
+
+ANSWER:  A. Facilitar la interacción entre objetos en el código y las tablas en una base de datos relacional
+
+¿Qué beneficio proporciona ORM en el desarrollo de software?
+
+A. Aumenta la complejidad del código
+B. Facilita la manipulación de datos y mejora la mantenibilidad del código
+C. Requiere conocimientos avanzados de lenguajes de programación
+
+ANSWER: B. Facilita la manipulación de datos y mejora la mantenibilidad del código

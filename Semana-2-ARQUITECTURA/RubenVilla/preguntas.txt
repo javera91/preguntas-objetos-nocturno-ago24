@@ -1,0 +1,26 @@
+Pregunta 1
+¿Cuál es el propósito principal de los módulos en Nest.js?
+
+A. Definir controladores y servicios
+B. Organizar la aplicación en unidades funcionales
+C. Proporcionar funcionalidades adicionales para el manejo de solicitudes y respuestas
+
+ANSWER: B. Organizar la aplicación en unidades funcionales
+
+Pregunta 2
+¿Qué función cumplen los controladores en Nest.js?
+
+A. Definir la lógica de negocio compartida
+B. Manejar las solicitudes HTTP y generar respuestas
+C. Proporcionar funcionalidades adicionales para el manejo de solicitudes y respuestas
+
+ANSWER: B. Manejar las solicitudes HTTP y generar respuestas
+
+Pregunta 3
+¿Cuál es la analogía propuesta para entender la estructura de Nest.js?
+
+A. Un sistema de archivos y directorios
+B. Una red de carreteras y autopistas
+C. La construcción de un edificio
+
+ANSWER: C. La construcción de un edificio
