@@ -1,0 +1,17 @@
+¿Cuál de los siguientes conceptos no es un pilar fundamental de la estructura de Nest.js?[2]
+A. Modulos
+B. Controladores
+C. Funciones
+ANSWER: C
+
+¿Qué patrón de diseño se utiliza para separar la lógica de negocio, la interfaz de usuario y la lógica de la API en Nest.js?[2]
+A. Patrón MVC (Modelo-Vista-Controlador)
+B. Patrón Data Mapper
+C. Patrón Singleton
+ANSWER: A
+
+¿Qué decorador se utiliza para definir un controlador en Nest.js?[2]
+A. @Injectable()
+B. @Controller()
+C. @Service()
+ANSWER: B

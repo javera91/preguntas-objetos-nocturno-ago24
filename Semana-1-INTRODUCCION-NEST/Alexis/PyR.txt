@@ -7,7 +7,7 @@ ANSWER: C
 ¿Cuál es el administrador de paquetes utilizado en Node.js para instalar y gestionar dependencias?[1]
 A. npm (Node Package Manager)
 B. pip (Python Package Index)
-B. composer
+C. composer
 ANSWER: A
 
 ¿Qué comando se utiliza para instalar Express en una aplicación Node.js utilizando npm?[1]
@@ -15,5 +15,3 @@ A. npm express install
 B. npm install express
 C. npm express
 ANSWER: B
-
-confirma alexis

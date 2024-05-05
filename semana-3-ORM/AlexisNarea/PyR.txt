@@ -1,0 +1,17 @@
+¿Qué patrón de diseño común utilizan los ORM para separar el acceso a datos de la lógica de negocio?[3]
+A. Patrón Data Mapper
+B. Patrón Singleton
+C. Patrón Facade
+ANSWER: A
+
+¿Cuál de las siguientes bibliotecas ORM NO es compatible con Nest.js de forma nativa?[3]
+A. Sequelize
+B. Mongoose
+C. NestJS ORM
+ANSWER: C
+
+¿Qué decorador se utiliza para definir una entidad que será mapeada por el ORM en Nest.js?[3]
+A. @Controller()
+B. @Entity()
+C. @Service()
+ANSWER: B
