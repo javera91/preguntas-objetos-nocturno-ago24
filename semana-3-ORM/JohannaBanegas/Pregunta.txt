@@ -1,0 +1,17 @@
+¿Cuál es uno de los principales desafíos al trabajar con ORM en el desarrollo de aplicaciones?[3]
+A. La falta de soporte para múltiples sistemas operativos.
+B. La complejidad añadida a la lógica del negocio.
+C. La ausencia de funciones de seguridad en las consultas de base de datos.
+ANSWER: B
+
+¿Qué tipo de relaciones entre entidades puede gestionar un ORM típico?[3]
+A. Solo relaciones uno a uno.
+B. Relaciones uno a muchos y muchos a muchos.
+C. Solo relaciones muchos a muchos.
+ANSWER: B
+
+¿Qué ventaja ofrece el patrón de diseño Data Mapper en el contexto de ORM?[3]
+A. Proporciona un control total sobre la lógica de mapeo entre objetos y tablas de la base de datos.
+B. Mejora la eficiencia en la ejecución de consultas SQL.
+C. Facilita la implementación de patrones de diseño Singleton en el código.
+ANSWER: A
