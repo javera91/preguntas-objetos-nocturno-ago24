@@ -1,0 +1,22 @@
+1. ¿Qué operaciones básicas describe el acrónimo CRUD en el contexto de la manipulación de datos?
+A. Crear, Relacionar, Usar, Descartar
+B. Crear, Leer, Utilizar, Descartar
+C. Crear, Leer, Actualizar, Eliminar
+
+ANSWER C porque su siglas significan: Crear, Leer, Actualizar, Eliminar
+
+
+2. ¿Cuál de las siguientes operaciones corresponde a la función "R" en el acrónimo CRUD?
+A. Crear
+B. Leer
+C. Actualizar
+
+ANSWER B porque correpsonde a Leer.
+
+
+3. ¿Qué tipo de operación CRUD implica cambiar los datos existentes en una base de datos?
+A. Crear
+B. Leer
+C. Actualizar
+
+ANSWER C porque corresponde a actualizar
