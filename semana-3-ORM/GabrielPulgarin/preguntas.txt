@@ -1,0 +1,21 @@
+¿Qué es prisma?[3]
+A. Una software de gestión de bases de datos
+B. Una herramienta de abstracción de datos
+C. las dos anteriores
+ANSWER: B
+
+¿Qué hace el comando “ npx prisma migrate dev --name "init" ”?[3]
+A. Se utiliza en el contexto de Prisma para crear y aplicar una nueva migración de base de datos con un nombre 
+específico.
+B. Permite migrar controladores de un módulo a otro, es importante hacerlo para evitar errores de ejecución
+C. Instala la herramienta “Migrate” que es similar a prisma pero ya trae integrada una base de datos propia.
+ANSWER: A
+
+¿Qué es Railway?[3]
+A. Un gestor de bases de datos que permite construir bases de datos de manera rapida y de forma gratuita
+B. Un subservicio de prisma que se debe instalar dentro del proyecto para poder ejecutar la base de datos 
+en el servidor
+C. Una plataforma de desarrollo que proporciona una manera rápida y sencilla de construir, implementar y 
+escalar aplicaciones web y API.
+ANSWER: C
+
