@@ -19,4 +19,4 @@ A. Reduce la complejidad del código al eliminar la necesidad de escribir consul
 B. Aumenta la complejidad del código al agregar una capa adicional de abstracción
 C. No tiene ningún impacto en la eficiencia y el rendimiento de las consultas a la base de datos
 
-ANSWER A porque el uso de un orm reduce la complejidad del código al eliminar la necesidad de escribir consultas SQL directamente
+ANSWER A porque el uso de un orm reduce la complejidad del código al eliminar la necesidad de escribir consultas SQL directamente.
