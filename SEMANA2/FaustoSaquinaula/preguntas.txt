@@ -16,3 +16,4 @@ A. Representa la relación entre objetos en la programación orientada a objetos
 B. Establece la correspondencia entre las clases de objetos y las tablas de una base de datos.
 C. Define la relación entre las clases de objetos y los métodos de acceso a la base de datos.
 ANSWER: B
+
