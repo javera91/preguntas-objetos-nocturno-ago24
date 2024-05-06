@@ -1,0 +1,19 @@
+ preguntas acerca de CRUD
+
+ ¿Qué representa el acrónimo "CRUD" en el contexto de operaciones de base de datos? 
+ A. Cargar, Revisar, Actualizar, Descargar.
+ B. Crear, Revisar, Unificar, Depurar.
+ C. Crear, Leer, Actualizar, Eliminar.
+ ANSWER: C
+
+¿Cuál de las siguientes operaciones NO forma parte de las operaciones básicas de CRUD? 
+A. Consultar (Leer).
+B. Modificar (Actualizar).
+C. Calcular (Calcular datos).
+ANSWER: C
+
+¿Cuál es la importancia de implementar operaciones CRUD en una aplicación? 
+A. Simplifica el proceso de desarrollo de software.
+B. Incrementa la complejidad y el tiempo de desarrollo.
+C. No tiene impacto en la eficiencia del desarrollo.
+ANSWER: A
