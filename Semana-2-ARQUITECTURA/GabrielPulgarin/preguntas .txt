@@ -1,0 +1,18 @@
+¿En el contexto Nest.js qué es un controlador?[2]
+A. Permiten una estructura organizada y modular para manejar las solicitudes HTTP en una aplicación web
+B. Son métodos que nos permitirán enlazar la API a un microcontrolador
+C. Tienen subclases que permiten definir objetos
+ANSWER: A
+
+¿Qué es una inyección de dependencias?[2]
+A. Un sistema de seguridad contra virus informáticos
+B. Un patrón de diseño utilizado en NestJS para administrar las dependencias entre los diferentes componentes de la aplicación.
+que define cómo responder a una solicitud HTTP específica 
+C. Descargar bibliotecas de NestJS para cambiar tipos primitivos de JS
+ANSWER: A
+
+¿A qué parte de la arquitectura de NestJS pertenece la decoración de una clase con “@Injectable()”?[2]
+A. Inyección de dependencias
+B. Servicios.
+C. Controladores
+ANSWER: B
