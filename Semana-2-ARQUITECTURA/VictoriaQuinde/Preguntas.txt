@@ -1,0 +1,27 @@
+1. ¿Qué es Node.js?(semana2)
+
+A.Un servidor web basado en Java
+B. Un entorno de ejecución de JavaScript basado en el motor V8 de Chrome
+C. Un servidor web basado en html
+D.Un servidor web basado en Python
+
+Answer B porque Node.js es un entorno de ejecución de JavaScript que utiliza el motor V8 de Chrome para ejecutar código JavaScript del lado del servidor. Esto permite a los desarrolladores utilizar JavaScript tanto en el frontend como en el backend de sus aplicaciones web, lo que facilita la creación de aplicaciones de extremo a extremo con un lenguaje de programación coherente.
+
+
+2. ¿Cuál de las siguientes afirmaciones sobre Node.js es verdadera?(semana2)
+
+A. Utiliza un modelo de entrada y salida sin bloqueo controlado
+B. No utiliza un modelo de entrada y salida sin bloqueo controlado  
+C. a y b son correctos 
+D. Todas son incorrectas 
+
+Answer A porque Node.js utiliza un modelo de entrada/salida sin bloqueo y basado en eventos, lo que significa que puede manejar múltiples solicitudes de forma eficiente sin bloquear el hilo de ejecución. Esto se logra mediante el uso de devoluciones de llamada (callbacks) y el sistema de eventos de Node.js, lo que permite un manejo asíncrono de operaciones de entrada/salida, como la lectura de archivos o las solicitudes HTTP.
+
+3. ¿Que se puede hacer con Node.js?(semana2)
+
+A. Construir aplicaciones tanto en el lado del servidor como en el cliente
+B. Puede garantizar seguridad de datos
+C. No es multiusuario 
+D.Todas las respuestas son correctas
+
+Answer: A porque Node.js puede construir aplicaciones tanto en el lado del servidor como en el cliente.
