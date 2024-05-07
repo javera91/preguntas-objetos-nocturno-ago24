@@ -1,29 +1,31 @@
-1) ¿Qué es lo siguiente?  
-function addNumbers(x, y) {
-  return x + y;
-}
-A. es un array
-B. es un objeto
-C. es  una función
+Preguntas y Respuestas sobre la Arquitectura de NestJS
 
-Answer: C
+Pregunta 1: ¿Qué es NestJS?
 
-2) ¿Qué hace el comando npm install -g typescript? 
+Opciones:
 
-A.Instala npm para que se pueda instalar TypeScript.
+A. Un framework JavaScript para el desarrollo de aplicaciones web del lado del servidor.
+B. Un lenguaje de programación funcional para JavaScript.
+C. Una biblioteca de JavaScript para la gestión de estado en aplicaciones web.
 
-B.Instala el compilador de TypeScript globalmente en el equipo.
+Respuesta: A. Un framework JavaScript para el desarrollo de aplicaciones web del lado del servidor.
 
-C.Instala Node.js y npm.
+Pregunta 2: ¿Cuáles son los componentes principales de la arquitectura de NestJS?
 
-Answer: B
+Opciones:
 
-3) ¿Qué es el compilador de TypeScript? 
+A. Módulos, Inyección de Dependencias, Controladores, Servicios, Repositorios.
+B. Funciones, Objetos, Clases, Métodos, Propiedades.
+C. Componentes, Directivas, Pipes, Módulos, Servicios.
 
-A.Es un programa que compila TypeScript a JavaScript.
+Respuesta: A. Módulos, Inyección de Dependencias, Controladores, Servicios, Repositorios.
 
-B.Es un programa que compila JavaScript a TypeScript.
+Pregunta 3: ¿Qué ventajas ofrece la arquitectura de NestJS?
 
-C.Es un programa que compila TypeScript a TypeScript.
+Opciones:
 
-Answer: A
+A. Modularidad, Escalabilidad, Testabilidad, Productividad, Comunidad Vibrante.
+B. Simplicidad, Facilidad de Aprendizaje, Rendimiento Óptimo.
+C. Flexibilidad, Soporte Multiplataforma, Compatibilidad con Legacy Code.
+
+Respuesta: A. Modularidad, Escalabilidad, Testabilidad, Productividad, Comunidad Vibrante.

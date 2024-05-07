@@ -1,0 +1,17 @@
+¿Qué es el "Lazy Loading" en el contexto de un ORM?[3]
+A. Una técnica para retrasar la carga de relaciones de objetos hasta que sean necesarias.
+B. Un método para cargar datos de forma asíncrona desde una base de datos.
+C. Una estrategia para optimizar consultas SQL utilizando índices.
+RESPUESTA: A
+
+¿Qué es un "Join Fetch" en ORM?[3]
+A. Una operación para combinar datos de múltiples tablas en una sola consulta.
+B. Un tipo de consulta que trae todos los registros de una tabla de una base de datos.
+C. Un método para unir objetos de varias colecciones en memoria.
+RESPUESTA: A
+
+¿Qué significa el término "Unit of Work" en el contexto de ORM?[3]
+A. Una transacción atómica que agrupa varias operaciones de base de datos.
+B. Una medida de tiempo utilizada para calcular el rendimiento de consultas SQL.
+C. Un patrón de diseño que mapea una clase de entidad a una tabla de base de datos.
+RESPUESTA: A

@@ -1,22 +1,24 @@
-¡Entendido! Aquí tienes tres preguntas en el mismo formato:
 
-1. ¿Para qué se utiliza la palabra clave `any` en TypeScript?
-   A. Para declarar cualquier tipo de variable
-   B. Para indicar que una variable no tiene tipo
-   C. Para declarar funciones sin tipo de retorno
+Pregunta 1: ¿Qué es un ORM (Object-Relational Mapper) en el contexto de NestJS?
 
-Respuesta: A
+A. Un framework de desarrollo web que facilita la construcción de aplicaciones con NestJS.
+B. Una biblioteca de JavaScript que simplifica la gestión de estado en aplicaciones NestJS.
+C. Una herramienta que permite mapear objetos en código JavaScript a tablas y registros en una base de datos relacional.
 
-2. ¿Por qué se recomienda utilizar `let` y `const` en lugar de `var` en TypeScript?
-   A. Porque `let` y `const` tienen un alcance de bloque más estricto
-   B. Porque `let` y `const` no permiten la reasignación de variables
-   C. Porque `let` y `const` son más eficientes en términos de rendimiento
+Respuesta Correcta: C. 
 
-Respuesta: A
+Pregunta 2: ¿Cuáles son las ventajas de usar ORMs en NestJS?
 
-3. ¿Cuál es el propósito de una tupla en TypeScript?
-   A. Para definir un tipo que puede ser uno de varios tipos específicos
-   B. Para agrupar múltiples valores juntos en un solo tipo
-   C. Para crear un tipo que no puede tener ningún valor
+A. Abstracción de SQL, Reducción de Código Boilerplate, Facilidad de Mantenimiento, Mayor Productividad, Mejor Testabilidad.
+B. Simplicidad, Facilidad de Aprendizaje, Rendimiento Óptimo.
+C. Flexibilidad, Soporte Multiplataforma, Compatibilidad con Legacy Code.
 
-Respuesta: B
+Respuesta Correcta: A. 
+
+Pregunta 3: ¿Cuáles son algunos ORMs populares para NestJS?
+
+A. TypeORM, Mongoose, Prisma.
+B. Express, Fastify, Hapi.
+C. NestJS, Angular, React.
+
+Respuesta Correcta: A. 
