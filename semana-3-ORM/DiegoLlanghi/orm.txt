@@ -1,0 +1,21 @@
+Pregunta 1: ¿Qué problema común resuelve el uso de un ORM al trabajar con bases de datos en aplicaciones de software?
+A. El problema de la incompatibilidad entre diferentes bases de datos.
+B. La complejidad de convertir datos entre sistemas incompatibles, como los tipos de datos en SQL y en lenguajes de programación.
+C. La dificultad de implementar cambios en la base de datos sin afectar el código de la aplicación.
+
+RESPUESTA: B
+
+Pregunta 2: ¿Cuál es una desventaja potencial de utilizar ORMs en lugar de consultas SQL directas?
+A. Aumento en la eficiencia de las transacciones de base de datos.
+B. Puede ocultar la complejidad del SQL, llevando a un menor control sobre las optimizaciones de la base de datos.
+C. Reduce significativamente la flexibilidad en el diseño de la base de datos.
+
+RESPUESTA: B
+
+Pregunta 3: ¿Qué característica es esencial en un ORM para mantener la integridad de los datos en aplicaciones de software?
+A. Soporte para consultas nativas SQL dentro del ORM.
+B. Capacidad de manejar relaciones complejas entre objetos, como herencia y composición.
+C. Integración automática con todas las bases de datos del mercado.
+
+RESPUESTA: B
+
