@@ -1,0 +1,27 @@
+
+Pregunta 1:
+¿Qué significa la sigla ORM en el contexto del desarrollo de aplicaciones?
+
+A. Object-Relational Mapping
+B. Object-Resource Management
+C. Object-Response Modeling
+
+Respuesta: A. Object-Relational Mapping
+
+Pregunta 2:
+¿Qué función cumple un modelo en un ORM?
+
+A. Definir la estructura y el comportamiento de una tabla en la base de datos.
+B. Facilitar la comunicación entre el cliente y el servidor.
+C. Gestionar las consultas y transacciones con la base de datos.
+
+Respuesta: A. Definir la estructura y el comportamiento de una tabla en la base de datos.
+
+Pregunta 3:
+¿Cuál es una desventaja potencial del uso de un ORM en comparación con consultas SQL directas?
+
+A. Mayor complejidad en el manejo de transacciones de base de datos.
+B. Posible pérdida de rendimiento debido a consultas generadas automáticamente.
+C. Necesidad de escribir código adicional para definir la estructura de la base de datos.
+
+Respuesta: B. Posible pérdida de rendimiento debido a consultas generadas automáticamente.

@@ -1,0 +1,26 @@
+Pregunta 1
+¿Qué papel juega el módulo raíz en una aplicación Nest.js?
+
+A. Proporcionar la configuración global y los servicios compartidos en toda la aplicación.
+B. Definir la estructura de enrutamiento para dirigir las solicitudes HTTP.
+C. Gestionar la comunicación entre los diferentes módulos de la aplicación.
+
+RESPUESTA: A. Proporcionar la configuración global y los servicios compartidos en toda la aplicación.
+
+Pregunta 2
+¿Cuál es el objetivo principal del sistema de enrutamiento en Nest.js?
+
+A. Gestionar la navegación entre diferentes páginas web.
+B. Dirigir las solicitudes HTTP entrantes a los controladores correspondientes.
+C. Optimizar el rendimiento de la aplicación al reducir la latencia del servidor.
+
+RESPUESTA: B. Dirigir las solicitudes HTTP entrantes a los controladores correspondientes.
+
+Pregunta 3
+¿Qué función cumplen los servicios en Nest.js?
+
+A. Renderizar vistas HTML para el cliente.
+B. Procesar y manipular datos relacionados con la lógica de negocio.
+C. Validar y autenticar las solicitudes de los usuarios.
+
+RESPUESTA: B. Procesar y manipular datos relacionados con la lógica de negocio.
