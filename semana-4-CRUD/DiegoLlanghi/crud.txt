@@ -1,0 +1,23 @@
+
+
+Pregunta 1: ¿Qué decorador se utiliza en Nest.js para aplicar middleware a un conjunto específico de rutas?
+A. @Middleware()
+B. @UseGuards()
+C. @UseMiddleware()
+
+RESPUESTA: C
+
+Pregunta 2: ¿Cómo se pueden gestionar diferentes configuraciones de entorno en una aplicación Nest.js?
+A. Utilizando el módulo `@nestjs/config` para cargar y acceder a variables de entorno.
+B. Definiendo variables globales directamente en los controladores.
+C. Usando decoradores específicos en los servicios para cargar configuraciones.
+
+RESPUESTA: A
+
+Pregunta 3: ¿Qué estrategia se recomienda en Nest.js para manejar la autenticación de usuarios?
+A. Implementar la lógica de autenticación directamente en cada controlador.
+B. Usar el módulo `@nestjs/passport` que integra Passport.js para manejar la autenticación.
+C. Crear un servicio singleton global que maneje todas las operaciones de autenticación.
+
+RESPUESTA: B
+

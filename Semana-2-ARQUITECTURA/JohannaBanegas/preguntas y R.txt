@@ -1,0 +1,17 @@
+¿Cuál es el propósito principal del módulo en la arquitectura de Nest.js?[2]
+A. Organizar las clases y archivos de la aplicación.
+B. Definir las rutas de la API REST.
+C. Gestionar la lógica de negocio y los servicios relacionados.
+ANSWER: C
+
+¿Qué ventajas ofrece el uso de inyección de dependencias en Nest.js? [2]
+A. Mejora el rendimiento de la aplicación al minimizar el uso de recursos del servidor.
+B. Facilita la reutilización de código y la realización de pruebas unitarias.
+C. Reduce la complejidad del enrutamiento en aplicaciones web.
+ANSWER: B
+
+¿Cuál es el ciclo de vida de un controlador en Nest.js? [2]
+A. Creación, Inicialización, Ejecución, Destrucción.
+B. Inicialización, Ejecución, Destrucción.
+C. Inicialización, Recepción de solicitud, Procesamiento, Envío de respuesta.
+ANSWER: C

@@ -1,0 +1,30 @@
+
+Pregunta 1:
+¿Qué acción realiza la operación "Actualizar" en una base de datos?
+
+A. Agregar nuevos registros a la base de datos.
+B. Modificar registros existentes en la base de datos.
+C. Recuperar información almacenada de la base de datos.
+D. Eliminar registros obsoletos de la base de datos.
+
+Respuesta: B. Modificar registros existentes en la base de datos.
+
+Pregunta 2:
+¿Qué operación CRUD se utiliza para agregar un nuevo registro a una base de datos?
+
+A. Crear
+B. Leer
+C. Actualizar
+D. Eliminar
+
+Respuesta: A. Crear
+
+Pregunta 3:
+En el contexto de una base de datos, ¿qué acción realiza la operación "Eliminar"?
+
+A. Agregar nuevos registros a la base de datos.
+B. Modificar registros existentes en la base de datos.
+C. Recuperar información almacenada de la base de datos.
+D. Eliminar registros obsoletos de la base de datos.
+
+Respuesta: D. Eliminar registros obsoletos de la base de datos.

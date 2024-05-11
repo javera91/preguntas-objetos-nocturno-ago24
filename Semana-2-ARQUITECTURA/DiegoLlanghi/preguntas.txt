@@ -1,0 +1,22 @@
+
+ Pregunta 1: ¿Qué función cumple el decorador `@Module()` en Nest.js?
+A. Define una clase especial que controla la base de datos de la aplicación.
+B. Permite organizar el código en secciones lógicas y administrar las dependencias de manera más eficiente.
+C. Marca una clase como controlador que puede manejar solicitudes HTTP.
+
+RESPUESTA: B
+
+Pregunta 2: ¿Cómo se puede manejar la configuración de diferentes entornos en Nest.js?
+A. Usando el paquete `@nestjs/config` para cargar variables de entorno de archivos `.env`.
+B. Escribiendo manualmente las configuraciones dentro del código fuente.
+C. Utilizando el decorador `@Injectable()` para marcar las clases de configuración.
+
+RESPUESTA: A
+
+ Pregunta 3: ¿Cuál es el propósito del método `useGlobalPipes()` en Nest.js?
+A. Para configurar controladores globales que manejen todas las rutas.
+B. Para registrar pipes a nivel global que se aplicarán a todas las rutas para validar o transformar datos de entrada.
+C. Para inyectar dependencias globalmente en todos los módulos y servicios.
+
+RESPUESTA: B
+
