@@ -1,0 +1,17 @@
+¿Cuál de las siguientes NO es una forma común de realizar el despliegue de software?[5]
+A. Despliegue en cascada
+B. Despliegue manual
+C.  Despliegue continuo
+ANSWER: A
+
+¿Qué herramienta se utiliza comúnmente para automatizar el deployment de aplicaciones?[5]
+A. Ansible
+B. Puppet
+C. Todas las anteriores
+ANSWER: C
+
+¿Qué es un "rollback" en el contexto del deployment?[5]
+A. Implementar una nueva función
+B. Revertir un deployment a una versión anterior
+C. Deshabilitar una aplicación
+ANSWER: B
