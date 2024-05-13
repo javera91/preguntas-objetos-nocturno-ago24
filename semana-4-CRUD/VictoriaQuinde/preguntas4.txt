@@ -1,0 +1,23 @@
+1. ¿Cuál es el propósito principal del principio de encapsulamiento en programación orientada a objetos?
+
+A. Ocultar la implementación interna de un objeto.
+B. Permitir la herencia de propiedades y comportamientos.
+C. Facilitar la interacción entre múltiples objetos.
+
+Respuesta: A
+
+2. ¿Cuál es la principal diferencia entre bases de datos SQL y NoSQL?
+
+A. SQL es ideal para consultas complejas y transacciones, mientras que NoSQL es preferido para escalabilidad horizontal y grandes volúmenes de datos.
+B. SQL utiliza un esquema flexible, mientras que NoSQL tiene un esquema fijo.
+C. SQL es más adecuado para datos no estructurados, mientras que NoSQL es ideal para datos altamente estructurados.
+
+Respuesta: A
+
+3. ¿Cuál es el objetivo principal del principio SOLID en programación orientada a objetos?
+
+A. Establecer reglas para el manejo de excepciones.
+B. Promover la modularidad y reutilización del código.
+C. Diseñar interfaces de usuario intuitivas.
+
+Respuesta: B
