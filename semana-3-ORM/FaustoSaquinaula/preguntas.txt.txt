@@ -1,0 +1,18 @@
+//preguntas ORM
+¿Cuál es uno de los principales objetivos de un ORM en el desarrollo de software? [semana 2]
+A. Optimizar el rendimiento de consultas SQL.
+B. Facilitar la manipulación y representación de datos en la base de datos.
+C. Minimizar el uso de lenguaje de programación orientado a objetos.
+ANSWER: B
+
+¿Qué ventaja proporciona un ORM en comparación con el uso directo de consultas SQL en el código?
+A. Mayor control sobre la optimización de consultas.
+B. Reducción del riesgo de inyección SQL.
+C. Incremento en la complejidad del código.
+ANSWER: B
+
+¿Cuál de las siguientes afirmaciones describe mejor el concepto de "Mapeo Objeto-Relacional" en el contexto de ORM? 
+A. Representa la relación entre objetos en la programación orientada a objetos.
+B. Establece la correspondencia entre las clases de objetos y las tablas de una base de datos.
+C. Define la relación entre las clases de objetos y los métodos de acceso a la base de datos.
+ANSWER: B

@@ -1,0 +1,17 @@
+¿CRUD es el acrónimo de?[4]
+A. Create Read Upload Download
+B. Create Read Update Delete
+C. Create Renovate Update Delete
+ANSWER: B
+
+¿Cómo implemento en CRUD en el proyecto NestJS?[4]
+A. Con controladores y servicios
+B. Hay que buscar una plataforma CRUD y copiar la url en la carpeta “env”
+C. NestJs no implementa CRUD solo crea una base de datos.
+ANSWER: A
+
+¿Qué método HTTP se utiliza para actualizar parcialmente un recurso existente en una API?[4]
+A. PATCH
+B. GET
+C. POST
+ANSWER: A

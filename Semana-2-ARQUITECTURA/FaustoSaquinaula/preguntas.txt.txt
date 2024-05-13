@@ -1,0 +1,17 @@
+¿Qué es Nest.js principalmente?
+A. Un framework de frontend para construir interfaces de usuario.
+B. Un framework de backend para construir aplicaciones web escalables.
+C. Una herramienta de diseño gráfico para crear logotipos.
+ANSWER: B
+
+¿Cuál de las siguientes características describe mejor la arquitectura de Nest.js? 
+A. Arquitectura monolítica.
+B. Arquitectura de microservicios.
+C. Arquitectura MVC (Modelo-Vista-Controlador).
+ANSWER: B
+
+¿Qué módulo de Nest.js se utiliza para manejar las solicitudes HTTP entrantes? 
+A. @nestjs/router
+B. @nestjs/server
+C. @nestjs/common
+ANSWER: C
