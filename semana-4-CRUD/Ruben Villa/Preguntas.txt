@@ -1,0 +1,23 @@
+¿Cuál de las siguientes opciones describe correctamente la operación "Create" en CRUD?
+
+A. Crear una nueva instancia de clase en TypeScript.
+B. Actualizar un registro existente en la base de datos.
+C. Leer información de un recurso en la base de datos.
+
+ANSWER: A
+
+¿Qué método HTTP se utiliza comúnmente para la operación "Delete" en una API RESTful?
+
+A. POST
+B. DELETE
+C. PUT
+
+ANSWER: B
+
+¿Cuál es la función principal de la operación "Update" en CRUD?
+
+A. Eliminar un registro de la base de datos.
+B. Modificar un registro existente en la base de datos.
+C. Crear una nueva instancia de clase en TypeScript.
+
+ANSWER: B
