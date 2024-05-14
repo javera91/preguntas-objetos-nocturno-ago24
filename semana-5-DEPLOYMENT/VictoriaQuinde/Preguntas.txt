@@ -1,0 +1,23 @@
+1. ¿Cuál es el impacto del encapsulamiento en el proceso de deployment de una aplicación orientada a objetos?
+
+A. Aumenta la complejidad del deployment debido a la necesidad de configurar la seguridad de los datos.
+B. Simplifica el proceso de deployment al reducir la cantidad de detalles técnicos expuestos.
+C. No tiene impacto en el deployment de la aplicación.
+
+ANSWER: A
+
+2. ¿Cómo puede afectar el encapsulamiento al mantenimiento de una aplicación después del deployment inicial?
+
+A. Facilita el mantenimiento al permitir cambios en la implementación interna sin afectar a otras partes del sistema.
+B. Complica el mantenimiento al ocultar los detalles de implementación y hacer que sea más difícil realizar cambios.
+C. No tiene ningún efecto en el mantenimiento de la aplicación.
+
+ANSWER: A
+
+3.¿Qué medidas de seguridad adicionales puede proporcionar el encapsulamiento durante el proceso de deployment?
+
+A. Controlar el acceso a los datos sensibles a través de métodos de acceso controlado.
+B. Asegurar la integridad de los archivos de configuración durante la transferencia al servidor de producción.
+C. No hay medidas de seguridad adicionales proporcionadas por el encapsulamiento.
+
+ANSWER: A
