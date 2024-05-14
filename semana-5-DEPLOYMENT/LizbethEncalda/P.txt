@@ -1,0 +1,17 @@
+¿Qué es un "Dark Launch" en el contexto del despliegue de software?[5]
+A. Liberar una nueva característica a todos los usuarios sin previo aviso
+B. Habilitar una nueva característica para un subconjunto de usuarios sin que esta sea visible para todos
+C. Desactivar temporalmente una aplicación para mantenimiento
+ANSWER: B
+
+¿Qué implica el término "Blue-Green Deployment" en el contexto de gestión de tráfico?[5]
+A. Utilizar dos entornos de producción idénticos, uno en espera y el otro en uso, para asegurar una implementación sin interrupciones
+B. Desplegar nuevas características a un pequeño grupo de usuarios antes del despliegue completo
+C. Implementar técnicas de balanceo de carga entre diferentes servidores
+ANSWER: A
+
+¿Qué es el "Zero Downtime Deployment"?[5]
+A. Un despliegue que se realiza durante las horas de menor tráfico
+B. Un despliegue que asegura que no haya tiempo de inactividad para los usuarios finales
+C. Un despliegue que se realiza sin hacer copias de seguridad
+ANSWER: B
