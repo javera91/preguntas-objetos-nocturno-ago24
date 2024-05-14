@@ -1,0 +1,17 @@
+1. ¿Cuál es una práctica importante en el proceso de deploy para asegurar que un sitio web siempre esté funcionando correctamente?
+A. Realizar pruebas exhaustivas antes del deploy
+B. Notificar a todos los equipos de desarrollo sobre el deploy
+C. Coordinar el deploy con el equipo de soporte técnico
+Respuesta correcta: A.
+
+2. ¿Por qué es importante que todos los equipos de desarrollo estén al tanto de un deployment en curso?
+A. Para coordinar el deploy con el equipo de soporte técnico
+B. Para asegurar que se esté llevando a cabo una actualización del sitio
+C. Para mantener orden y coordinación durante el deploy
+Respuesta correcta: C.
+
+3. ¿Qué es una buena práctica para asegurar un deployment exitoso en equipos de desarrollo grandes?
+A. Realizar pruebas exhaustivas antes del deploy
+B. Coordinar el deploy con el equipo de soporte técnico
+C. Notificar a todos los equipos de desarrollo sobre el deploy
+Respuesta correcta: C.
