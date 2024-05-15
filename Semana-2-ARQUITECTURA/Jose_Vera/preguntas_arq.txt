@@ -1,0 +1,17 @@
+1. ¿Cuál es el objetivo principal de la estructura de Nest.js?
+A. Facilitar la integración con bases de datos relacionales.
+B. Mejorar el rendimiento de las aplicaciones web.
+C. Proporcionar una arquitectura sólida y escalable para aplicaciones Node.js.
+ANSWER: C
+
+¿Qué ventajas ofrece la estructura de módulos en Nest.js?
+A. ¿Permite organizar el código en áreas funcionales y reutilizables.
+B. ¿Reduce la cantidad de líneas de código necesarias para implementar una función.
+C. ¿Limita la capacidad de expansión de una aplicación.
+ANSWER: A
+
+¿Por qué es importante el uso de decoradores en Nest.js?
+A. ¿Ayudan a mejorar el rendimiento de las aplicaciones.
+B. ¿Facilitan la implementación de lógica de negocio en los controladores.
+C. ¿Son opcionales y no tienen impacto en la estructura de la aplicación.
+ANSWER: B
