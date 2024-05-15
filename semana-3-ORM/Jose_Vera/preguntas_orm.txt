@@ -1,0 +1,17 @@
+¿Cuál es el propósito principal de un ORM en el desarrollo de aplicaciones web?
+A. Simplificar la interacción con bases de datos relacionales.
+B. Optimizar el rendimiento de las consultas SQL.
+C. Aumentar la complejidad de la capa de acceso a datos.
+ANSWER: A
+
+¿Qué ventajas ofrece el uso de un ORM en comparación con el acceso directo a la base de datos?
+A. Mayor control sobre las consultas SQL generadas.
+B. Facilita el cambio de base de datos sin modificar el código de la aplicación.
+C. Reduce la flexibilidad en la manipulación de datos.
+ANSWER: B
+
+¿Cómo ayuda un ORM a mantener la consistencia de los datos en una aplicación web?
+A. Validando automáticamente los datos antes de ser almacenados en la base de datos.
+B. Generando consultas SQL más eficientes.
+C. Optimizando la gestión de índices en la base de datos.
+ANSWER: A
